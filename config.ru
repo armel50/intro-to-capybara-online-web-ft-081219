@@ -1,3 +1,3 @@
 require 'sinatra'
 
-run ApplicationController
+run Application
